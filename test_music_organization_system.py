@@ -1,6 +1,6 @@
 
 # Import functions and testing modules for pytest.
-from creating_and_storing_song_info import calc_duration, \
+from music_organization_system import calc_duration, \
     get_beat_note_number, get_time_signature, \
     get_tempo_category, make_title, make_dictionary, \
     get_random_bpm
