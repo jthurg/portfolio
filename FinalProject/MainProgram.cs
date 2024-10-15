@@ -1,3 +1,7 @@
+//This is the main program for the vehicle rental system. It has a menu that presents options to the user
+//for renting, returning, getting a rental estimation cost, viewing the digital shopping cart of current rental
+//items, and a checkout procedure to pay for the items in the shopping cart.
+
 using System;
 using System.Security.Permissions;
 using System.Xml.Schema;
