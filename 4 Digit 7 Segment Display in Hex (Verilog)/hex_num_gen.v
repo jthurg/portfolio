@@ -1,22 +1,9 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 02/11/2025 02:47:49 PM
-// Design Name: 
+// Create Date: 02/11/2025 02:47:49 PM 
 // Module Name: hex_num_gen
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Project Name: 4 Digit 7 Segment Display in Hex
+// Target Devices: Basys 3 Xilinx FPGA Board
 //////////////////////////////////////////////////////////////////////////////////
 
 //Define module for hex_num_gen and signals.
