@@ -1,22 +1,9 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
 // Create Date: 02/11/2025 12:51:49 PM
-// Design Name: 
 // Module Name: sseg_x4_top
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Project Name: 4 Digit 7 Segment Display in Hex
+// Target Devices: Basys 3 Xilinx FPGA Board
 //////////////////////////////////////////////////////////////////////////////////
 
 // define module and signals for sseg_x4_top
